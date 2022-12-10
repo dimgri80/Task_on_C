@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Home\\Seminary\\Task_on_C\\task10\\Task8.csproj": {}
+    "C:\\Users\\Home\\Seminary\\task_on_c\\task10\\Task8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Home\\Seminary\\Task_on_C\\task10\\Task8.csproj": {
+    "C:\\Users\\Home\\Seminary\\task_on_c\\task10\\Task8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\Seminary\\Task_on_C\\task10\\Task8.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Seminary\\task_on_c\\task10\\Task8.csproj",
         "projectName": "Task8",
-        "projectPath": "C:\\Users\\Home\\Seminary\\Task_on_C\\task10\\Task8.csproj",
+        "projectPath": "C:\\Users\\Home\\Seminary\\task_on_c\\task10\\Task8.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\Seminary\\Task_on_C\\task10\\obj\\",
+        "outputPath": "C:\\Users\\Home\\Seminary\\task_on_c\\task10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
